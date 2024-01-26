@@ -3,7 +3,8 @@ This project is created using React.js. This project is about creating a fronten
 
 ## Deployed link: 
 
-click the above link to use the eCommerce app which  is already deployed
+https://ecommerceusingreact.onrender.com
+Click the above link to use the eCommerce app which  is already deployed
 
 ## Getting Started
 
