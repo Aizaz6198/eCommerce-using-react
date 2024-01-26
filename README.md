@@ -1,3 +1,41 @@
+# eCommerce using React.js
+This project is created using React.js. This project is about creating a frontend for the eCommerce website.
+
+## Deployed link: 
+
+click the above link to use the eCommerce app which  is already deployed
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   git clone https://github.com/Aizaz6198/eCommerce-using-react.git
+
+2. Navigate to the project directory:
+    cd eCommerce-using-react
+
+3.  Install dependencies:  
+    npm install
+
+    
+## Usage
+Start the server:
+    npm start
+    
+Visit http://localhost:3000 in your web browser.
+
+
+
+
+
+
+# learn more about React.js here:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
