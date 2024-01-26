@@ -1,0 +1,47 @@
+.navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  padding-right: 100px;
+  background-color: #bffbe8;
+  color: #4c4e50;
+  z-index: 5;
+}
+
+.navBar .sectionOne,
+.navBar .sectionTwo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 25%;
+}
+
+.navBar .sectionTwo {
+  width: 7%;
+  margin-right: 20px;
+}
+
+.navBar .logo {
+  font-family: cursive;
+}
+
+.navBar .navLinks {
+  cursor: pointer;
+  text-decoration: none;
+  color: #232f3e;
+}
+
+.navBar .navItem {
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navBar .navItem .avatar {
+  width: 40px;
+  margin-left: 30px;
+  margin-right: 8px;
+}

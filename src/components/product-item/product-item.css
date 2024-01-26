@@ -1,0 +1,63 @@
+.product-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  margin-bottom: 20px;
+  background-color: #efefef;
+  cursor: pointer;
+  position: relative;
+}
+
+.product-card .image-price-rating-container {
+  display: flex;
+  align-items: center;
+}
+
+.product-card .image-price-rating-container .title-container {
+  margin-bottom: 8px;
+}
+
+.product-card .image-price-rating-container .price-container {
+  margin-bottom: 60px;
+}
+
+.product-card .image-price-rating-container img {
+  width: 200px;
+  margin-right: 60px;
+}
+
+.product-card .title-rating-price {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.product-card .desc-actions {
+  width: 30%;
+}
+
+.product-card .desc-actions .description-container {
+  margin-bottom: 15px;
+}
+
+.product-card .desc-actions .action-container {
+  display: flex;
+  margin-top: 15px;
+  position: absolute;
+  bottom: 15px;
+  right: 5px;
+}
+
+.product-card .desc-actions .action-container .action-icon img {
+  width: 25px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+input,
+textarea {
+  font-size: 15px;
+  padding: 5px;
+  font-family: "Amazon Ember", sans-serif;
+}
